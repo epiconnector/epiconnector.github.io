@@ -1,6 +1,4 @@
-# Reproducible research for Epidemiology
-
-Welcome to the EpiConnector website.
+# Welcome!
 
 The goal of the EpiConnector project is to develop and share open source software that enables analysis of complex epidemiological data, with a focus on ease of analysis and reproducible research.
 
